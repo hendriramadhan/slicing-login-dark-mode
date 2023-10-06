@@ -440,6 +440,21 @@ h2 {
   height: 58px;
 }
 
+.social {
+  display: flex;
+  flex-direction: column;
+  /* margin-left: 60px; */
+  margin-top: -7px;
+  justify-content: space-between;
+  align-items: start;
+  padding: 140px 28px;
+  height: 450px;
+  width: 20%;
+}
+
+.social-icon {
+  width: 13%;
+}
 
 
 }
